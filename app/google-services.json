@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "708059937814",
+    "firebase_url": "https://team-euphoria-1ff1d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "team-euphoria-1ff1d",
+    "storage_bucket": "team-euphoria-1ff1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708059937814:android:19caaf12180a549b170937",
+        "android_client_info": {
+          "package_name": "com.example.tpms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXB7WyNxZvGY-3f6hddV9rew_Fa7hLh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708059937814:android:ab4d4bdf06002f97170937",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXB7WyNxZvGY-3f6hddV9rew_Fa7hLh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
